@@ -1,8 +1,0 @@
-This is the first initialztion to the git reporistory
-
-
-Adding changes to make the 2nd commit
-
-Adding the coomit for an another example
-
-This is to explain that we can commit certain changes without staging the file
