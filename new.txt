@@ -4,3 +4,5 @@ Adding a new line
 
 
 This is to display the exmaple of gitdiff
+
+this is to display the example of gitdiff --stage
