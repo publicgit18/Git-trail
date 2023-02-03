@@ -1,1 +1,6 @@
 This is  a new file
+
+Adding a new line
+
+
+This is to display the exmaple of gitdiff
