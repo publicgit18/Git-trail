@@ -1,0 +1,6 @@
+This is a text in the folder dir
+
+To ignore the outer file use /dir
+
+to ignore the inner content also use dir/
+

@@ -1,0 +1,14 @@
+This is the first initialztion to the git reporistory
+
+
+Adding changes to make the 2nd commit
+
+Adding the coomit for an another example
+
+This is to explain that we can commit certain changes without staging the file
+
+This is to explain how to change from tracking to untracking a file
+
+Testing if the cached command works 
+
+sdyegfdkk
